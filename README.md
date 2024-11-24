@@ -1,4 +1,4 @@
-<p align="left">𝑺𝒐𝒃𝒓𝒆 𝒎𝒊𝒎☆</p>
+<p align="left">Sobre mim</p>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">𝑻𝒆𝒄𝒉𝒔 ☆</p>
+<p align="left">Techs</p>
 
 ###
 
@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">𝑺𝒕𝒂𝒕𝒔 ☆</p>
+<p align="left">Stats</p>
 
 ###
 
@@ -34,7 +34,7 @@
 
 ###
 
-<p align="left">𝑹𝒆𝒅𝒆𝒔 𝑺𝒐𝒄𝒊𝒂𝒊𝒔 ☆</p>
+<p align="left">Redes Sociais</p>
 
 ###
 
