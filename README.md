@@ -4,7 +4,7 @@ Olá! Sou a Yasmim, estudante de Informática 2. Este aqui é meu GitHub, onde c
 
 ## 📸 Foto
 <div style="display: flex; align-items: center;">
-  <img src="https://pin.it/22jbecKu1" alt="Minha Foto" width="120" style="border-radius: 50%; margin-right: 15px;" />
+  <img src="https://i.pinimg.com/originals/58/ea/df/58eadf140e49a725de59a9c2ab5e5b27.jpg" alt="Minha Foto" width="120" style="border-radius: 50%; margin-right: 15px;" />
   <p>Olá! Sou a Yasmim, estudante de Informática 2. Este aqui é meu GitHub, onde compartilho alguns projetos, ideias e experimentos enquanto aprendo e evoluo no mundo da tecnologia. Fique à vontade para dar uma olhada!💗</p>
 </div>
 
