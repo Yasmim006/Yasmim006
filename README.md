@@ -20,3 +20,6 @@ Fique à vontade para dar uma olhada!💗
 ---
 [![](https://visitcount.itsvg.in/api?id=Yasmim006&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Yasmim006&label=Profile%20Views&color=5&pretty=false" />
+</a>
