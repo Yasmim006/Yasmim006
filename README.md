@@ -1,6 +1,10 @@
    𝑺𝒐𝒃𝒓𝒆 𝒎𝒊𝒎☆⁵
 
-olá sou Yasmim dos Santos.
+
+Olá! Sou a Yasmim, estudante de Informática 2. Este aqui é meu GitHub, onde compartilho alguns projetos,
+ideias e experimentos enquanto aprendo e evoluo no mundo da tecnologia. 
+Fique à vontade para dar uma olhada!💗
+
 
 
 ## 🌐 Socials:
