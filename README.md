@@ -3,7 +3,10 @@
 Olá! Sou a Yasmim, estudante de Informática 2. Este aqui é meu GitHub, onde compartilho alguns projetos, ideias e experimentos enquanto aprendo e evoluo no mundo da tecnologia. Fique à vontade para dar uma olhada!💗
 
 ## 📸 Foto
-![Minha Foto](URL_DA_SUA_FOTO) <!-- Coloque o link da sua foto aqui -->
+<div style="display: flex; align-items: center;">
+  <img src="https://pin.it/22jbecKu1" alt="Minha Foto" width="120" style="border-radius: 50%; margin-right: 15px;" />
+  <p>Olá! Sou a Yasmim, estudante de Informática 2. Este aqui é meu GitHub, onde compartilho alguns projetos, ideias e experimentos enquanto aprendo e evoluo no mundo da tecnologia. Fique à vontade para dar uma olhada!💗</p>
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/yasqzl._/) 
