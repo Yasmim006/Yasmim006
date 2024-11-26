@@ -3,6 +3,18 @@
 # 💫 About Me:
 🔭 - 𝑺𝒐𝒖 𝒀𝒂𝒔𝒎𝒊𝒎 𝒅𝒐𝒔 𝑺𝒂𝒏𝒕𝒐𝒔, 𝑬𝒔𝒕𝒖𝒅𝒂𝒏𝒕𝒆 𝒅𝒆 𝑰𝒏𝒇𝒐𝒓𝒎á𝒕𝒊𝒄𝒂 𝟐 𝒏𝒐 𝑰𝒏𝒔𝒕𝒊𝒕𝒖𝒕𝒐 𝑭𝒆𝒅𝒆𝒓𝒂𝒍  𝒅𝒐 𝑴𝒂𝒓𝒂𝒏𝒉ã𝒐 (𝑰𝑭𝑴𝑨),𝑪𝒂𝒎𝒑𝒖𝒔 𝑨ç𝒂𝒊𝒍â𝒏𝒅𝒊𝒂.
 
+h2>Minhas Habilidades</h2>
+<div style="display: flex">
+<br>
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=yellow)
+![FireBase](https://img.shields.io/badge/firebase-000?style=for-the-badge&logo=firebase&logoColor=yellow)
+</div>
+<div  align="center">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=profcarlosc3&layout=compact&langs_count=7&theme=react)
+</div>
+
 
 <p align="left">ʜᴀʙɪʟɪᴅᴀᴅᴇꜱ ᴘᴇꜱꜱᴏᴀɪꜱ ✩</p>
 
