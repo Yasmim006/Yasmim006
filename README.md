@@ -81,6 +81,10 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/yasqzl._/profilecard/?igsh=eGFlcDE2MGw4czRu) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@ym._.45?_t=8qxpwBDlu0k&_r=1) 
 
+<p align="left">📬 Contato<br><br>- 📧 E-mail: yasmims@ifma.edu.br<br>- 🌐 Portfólio: [github.com/seu-username](https://yasmim006.github.io/PORTIF-LIO---YMS/)</p>
+
+###
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Yasmim006&theme=rose&hide_border=false&include_all_commits=false&count_private=false)<br/>
