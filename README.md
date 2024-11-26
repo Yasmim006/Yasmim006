@@ -25,7 +25,10 @@
   
   🕸️ Informações Profissionais<br>-
   
-  🔭 Atualmente estudando no curso de Informática<br>- 🌱 Desenvolvendo projetos práticos que integram tecnologias<br><br>- 🚀 Meus interesses incluem:<br>  - Desenvolvimento de aplicações web<br>  - Criação de Projetos<br> <br><br>- ⚡ 𝐿𝑖𝑓𝑒 𝑔𝑜𝑒𝑠 𝑜𝑛...</p>
+  🔭 Atualmente estudando no curso de Informática<br>
+  - 🌱 Desenvolvendo projetos práticos que integram tecnologias<br><br>
+           
+  - 🚀 Meus interesses incluem:<br>  - Desenvolvimento de aplicações web<br>  - Criação de Projetos<br> <br><br>- ⚡ 𝐿𝑖𝑓𝑒 𝑔𝑜𝑒𝑠 𝑜𝑛...</p>
 
 ###
 
