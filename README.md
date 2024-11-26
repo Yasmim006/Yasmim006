@@ -28,7 +28,9 @@
 -🤝 𝖳𝗋𝖺𝖻𝖺𝗅𝗁𝗈 𝖾𝗆 𝖾𝗊𝗎𝗂𝗉𝖾 𝖾 𝖼𝗈𝗅𝖺𝖻𝗈𝗋𝖺çã𝗈 𝖾𝖿𝗂𝖼𝖺𝗓 <br> - 🎨 𝖢𝗋𝗂𝖺𝗍𝗂𝗏𝗂𝖽𝖺𝖽𝖾<br>- 🕒 𝖦𝖾𝗌𝗍ã𝗈 𝖽𝖾 𝗍𝖾𝗆𝗉𝗈 𝗉𝖺𝗋𝖺 𝖺𝗅𝖼𝖺𝗇ç𝖺𝗋 𝗆𝖾𝗍𝖺𝗌<br>  
   
   # 🕸️ Informações Profissionais:
-  <br>- 🔭 Atualmente estudando no curso de Informática<br>- 🌱 Desenvolvendo projetos práticos que integram tecnologias<br><br>
+  <br>- 🔭 Atualmente estudando no curso de Informática<br>- 🌱 - 🌱 Desenvolvendo projetos práticos que integram tecnologias como HTML, CSS, JavaScript e Python
+
+<br><br>
   🚀 Meus interesses incluem:<br> - Desenvolvimento de aplicações web<br>  - Criação de Projetos<br> <br><br>- ⚡ 𝐿𝑖𝑓𝑒 𝑔𝑜𝑒𝑠 𝑜𝑛...</p>
 
 ###
