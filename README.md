@@ -111,15 +111,3 @@
 <p align="left">📬 Contato<br><br>- 📧 E-mail: yasmims@ifma.edu.br<br>- 🌐Portfólio(https://yasmim006.github.io/PORTIF-LIO---YMS/)<br>- 🎨Blog: http://www.alunos.pensandocomrobotica.com.br/yasmims/</p>
 
 ###
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Yasmim006&theme=rose&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Yasmim006&theme=rose&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yasmim006&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=Yasmim006&icon=0&color=5)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
