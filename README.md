@@ -112,3 +112,9 @@
   🌐Portfólio(https://yasmim006.github.io/PORTIF-LIO---YMS/)<br>- 🎨Blog: http://www.alunos.pensandocomrobotica.com.br/yasmims/</p>
 
 ### 
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yasmim006&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
