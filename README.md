@@ -21,7 +21,8 @@
 
 <p align="center">🎓 𝐸𝑠𝑡𝑢𝑑𝑎𝑛𝑡𝑒 𝑑𝑒 𝐼𝑛𝑓𝑜𝑟𝑚á𝑡𝑖𝑐𝑎 𝟸 𝑛𝑜 𝐼𝑛𝑠𝑡𝑖𝑡𝑢𝑡𝑜 𝐹𝑒𝑑𝑒𝑟𝑎𝑙 𝑑𝑜 𝑀𝑎𝑟𝑎𝑛ℎã𝑜 (𝐼𝐹𝑀𝐴).
   𝑇𝑒𝑛ℎ𝑜  𝑖𝑛𝑡𝑒𝑟𝑒𝑠𝑠𝑒 𝑒𝑚 𝑎𝑝𝑟𝑒𝑛𝑑𝑒𝑟 𝑒 𝑎𝑝𝑟𝑖𝑚𝑜𝑟𝑎𝑟 𝑚𝑖𝑛ℎ𝑎𝑠 ℎ𝑎𝑏𝑖𝑙𝑖𝑑𝑎𝑑𝑒𝑠 𝑛𝑎 á𝑟𝑒𝑎 𝑑𝑎 𝑖𝑛𝑓𝑜𝑟𝑚á𝑡𝑖𝑐𝑎,
-  𝐶𝑜𝑚 𝑢𝑚𝑎 𝑓𝑜𝑟𝑡𝑒 𝑑𝑒𝑡𝑒𝑟𝑚𝑖𝑛𝑎çã𝑜 𝑝𝑎𝑟𝑎 𝑎𝑙𝑐𝑎𝑛ç𝑎𝑟 𝑠𝑒𝑢𝑠 𝑜𝑏𝑗𝑒𝑡𝑖𝑣𝑜𝑠 𝑎𝑐𝑎𝑑ê𝑚𝑖𝑐𝑜𝑠 𝑒 𝑝𝑟𝑜𝑓𝑖𝑠𝑠𝑖𝑜𝑛𝑎𝑖𝑠
+  𝐶𝑜𝑚 𝑢𝑚𝑎 𝑓𝑜𝑟𝑡𝑒 𝑑𝑒𝑡𝑒𝑟𝑚𝑖𝑛𝑎çã𝑜 𝑝𝑎𝑟𝑎 𝑎𝑙𝑐𝑎𝑛ç𝑎 𝘮𝘦𝘶𝘴 𝑜𝑏𝑗𝑒𝑡𝑖𝑣𝑜𝑠 𝑎𝑐𝑎𝑑ê𝑚𝑖𝑐𝑜𝑠 𝑒 𝑝𝑟𝑜𝑓𝑖𝑠𝑠𝑖𝑜𝑛𝑎𝑖𝑠
+  
   <br><br>🌟 𝖧𝖺𝖻𝗂𝗅𝗂𝖽𝖺𝖽𝖾𝗌 𝖯𝖾𝗌𝗌𝗈𝖺𝗂𝗌<br><br>- 🤝 𝖳𝗋𝖺𝖻𝖺𝗅𝗁𝗈 𝖾𝗆 𝖾𝗊𝗎𝗂𝗉𝖾 𝖾 𝖼𝗈𝗅𝖺𝖻𝗈𝗋𝖺çã𝗈 𝖾𝖿𝗂𝖼𝖺𝗓<br>- 📌 𝖮𝗋𝗀𝖺𝗇𝗂𝗓𝖺çã𝗈 𝖾 𝖺𝗍𝖾𝗇çã𝗈 𝖺𝗈𝗌 𝖽𝖾𝗍𝖺𝗅𝗁𝖾𝗌<br>- 🎨 𝖢𝗋𝗂𝖺𝗍𝗂𝗏𝗂𝖽𝖺𝖽𝖾 𝖾 𝗂𝗇𝗈𝗏𝖺çã𝗈 <br>- 🕒 𝖦𝖾𝗌𝗍ã𝗈 𝖽𝖾 𝗍𝖾𝗆𝗉𝗈 𝗉𝖺𝗋𝖺 𝖺𝗅𝖼𝖺𝗇ç𝖺𝗋 𝗆𝖾𝗍𝖺𝗌<br><br> .🕸️ Informações Profissionais<br><br>- 🔭 Atualmente estudando no curso de Informática<br>- 🌱 Desenvolvendo projetos práticos que integram tecnologias<br><br>- 🚀 Meus interesses incluem:<br>  - Desenvolvimento de aplicações web<br>  - Criação de Projetos<br> <br><br>- ⚡ 𝐿𝑖𝑓𝑒 𝑔𝑜𝑒𝑠 𝑜𝑛...</p>
 
 ###
