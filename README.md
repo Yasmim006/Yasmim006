@@ -15,13 +15,7 @@
 <div align="center">
 </div>
 
-###
 
-<div align="center">
-  <img src="[https://visitor-badge.laobi.icu/badge?page_id=Yasmim006.Yasmim006&](https://th.bing.com/th/id/OIP.qW0fOCsD53hKWKjWArEv-wAAAA?rs=1&pid=ImgDetMain)"  />
-</div>
-
-###
 
 <h1 align="center">OLÁ! SOU YASMIM DOS SANTOS ✿</h1>
 
