@@ -118,3 +118,6 @@
 </div>
 
 ###
+<img src="https://raw.githubusercontent.com/Yasmim006/Yasmim006/output/snake.svg" alt="Snake animation" />
+
+###
