@@ -1,39 +1,7 @@
                 OLÁ! SOU YASMIM DOS SANTOS ✿
 
 # 💫 About Me:
-🔭 - 𝑺𝒐𝒖 𝒀𝒂𝒔𝒎𝒊𝒎 𝒅𝒐𝒔 𝑺𝒂𝒏𝒕𝒐𝒔, 𝑬𝒔𝒕𝒖𝒅𝒂𝒏𝒕𝒆 𝒅𝒆 𝑰𝒏𝒇𝒐𝒓𝒎á𝒕𝒊𝒄𝒂 𝟐 𝒏𝒐 𝑰𝒏𝒔𝒕𝒊𝒕𝒖𝒕𝒐 𝑭𝒆𝒅𝒆𝒓𝒂𝒍  𝒅𝒐 𝑴𝒂𝒓𝒂𝒏𝒉ã𝒐 (𝑰𝑭𝑴𝑨),𝑪𝒂𝒎𝒑𝒖𝒔 𝑨ç𝒂𝒊𝒍â𝒏𝒅𝒊𝒂.
-
-h2>Minhas Habilidades</h2>
-<div style="display: flex">
-<br>
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=yellow)
-![FireBase](https://img.shields.io/badge/firebase-000?style=for-the-badge&logo=firebase&logoColor=yellow)
-</div>
-<div  align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=profcarlosc3&layout=compact&langs_count=7&theme=react)
-</div>
-
-
-<p align="left">ʜᴀʙɪʟɪᴅᴀᴅᴇꜱ ᴘᴇꜱꜱᴏᴀɪꜱ ✩</p>
-
-###
-
-<p align="left">. ᴛʀᴀʙᴀʟʜᴏ ᴇᴍ ᴇǫᴜɪᴘᴇ<br>. ᴄᴏᴍᴜɴɪᴄᴀçãᴏ ᴇꜰɪᴄᴀᴢ<br>. ᴏʀɢᴀɴɪᴢᴀçãᴏ ᴇ ᴘᴏɴᴛᴜᴀʟɪᴅᴀᴅᴇ<br>. ʀᴇꜱᴏʟᴜçãᴏ ᴅᴇ ᴀᴛɪᴠɪᴅᴀᴅᴇꜱ</p>
-
-###
-
-<p align="left">📊 GitHub Stats:</p>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yasmim006&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yasmim006&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-#💬 Ask me about<br>⚡ Fun fact
+🔭 - 𝑺𝒐𝒖 𝒀𝒂𝒔𝒎𝒊𝒎 𝒅𝒐𝒔 𝑺𝒂𝒏𝒕𝒐𝒔, 𝑬𝒔𝒕𝒖𝒅𝒂𝒏𝒕𝒆 𝒅𝒆 𝑰𝒏𝒇𝒐𝒓𝒎á𝒕𝒊𝒄𝒂 𝟐 𝒏𝒐 𝑰𝒏𝒔𝒕𝒊𝒕𝒖𝒕𝒐 𝑭𝒆𝒅𝒆𝒓𝒂𝒍  𝒅𝒐 𝑴𝒂𝒓𝒂𝒏𝒉ã𝒐 (𝑰𝑭𝑴𝑨),𝑪𝒂𝒎𝒑𝒖𝒔 𝑨ç𝒂𝒊𝒍â𝒏𝒅𝒊𝒂.<br><br><br>     ʜᴀʙɪʟɪᴅᴀᴅᴇꜱ ᴘᴇꜱꜱᴏᴀɪꜱ ✩<br>   . ᴛʀᴀʙᴀʟʜᴏ ᴇᴍ ᴇǫᴜɪᴘᴇ<br>   . ᴄᴏᴍᴜɴɪᴄᴀçãᴏ ᴇꜰɪᴄᴀᴢ<br>   . ᴏʀɢᴀɴɪᴢᴀçãᴏ ᴇ ᴘᴏɴᴛᴜᴀʟɪᴅᴀᴅᴇ<br>   . ʀᴇꜱᴏʟᴜçãᴏ ᴅᴇ ᴀᴛɪᴠɪᴅᴀᴅᴇꜱ<br><br><br>       ɪɴꜰᴏʀᴍᴀçõᴇꜱ ᴘʀᴏꜰɪꜱꜱɪᴏɴᴀɪꜱ ♡<br>  - ꜰᴏʀᴍᴀçãᴏ: ᴇꜱᴛᴜᴅᴀɴᴛᴇ ᴅᴇ ɪɴꜰᴏʀᴍáᴛɪᴄᴀ ᴄᴏᴍ ꜰᴏᴄᴏ ᴇᴍ ᴅᴇꜱᴇɴᴠᴏʟᴠɪᴍᴇɴᴛᴏ.<br>  - ɪɴᴛᴇʀᴇꜱꜱᴇ ᴇᴍ ᴘʀᴏᴊᴇᴛᴏꜱ ᴅᴇ ᴅᴇꜱᴇɴᴠᴏʟᴠɪᴍᴇɴᴛᴏ ᴡᴇʙ.<br>  - ʙᴜꜱᴄᴀɴᴅᴏ ᴏᴘᴏʀᴛᴜɴɪᴅᴀᴅᴇꜱ ᴘᴀʀᴀ ᴀᴘʟɪᴄᴀʀ ᴇ ᴇxᴘᴀɴᴅɪʀ ᴍᴇᴜꜱ ᴄᴏɴʜᴇᴄɪᴍᴇɴᴛᴏꜱ.<br><br><br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
