@@ -108,6 +108,6 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/yasqzl._/profilecard/?igsh=eGFlcDE2MGw4czRu) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@ym._.45?_t=8qxpwBDlu0k&_r=1) 
 
-<p align="left">📬 Contato<br><br>- 📧 E-mail: yasmims@ifma.edu.br<br>- 🌐Portfólio(https://yasmim006.github.io/PORTIF-LIO---YMS/)<br>- 🎨Blog: http://www.alunos.pensandocomrobotica.com.br/yasmims/</p>
+<p align="left">📬 Contato<br><br>- 📧 E-mail: yasmims@ifma.edu.br<br>- ☎️ Telefone: (+55) 991139374 🌐Portfólio(https://yasmim006.github.io/PORTIF-LIO---YMS/)<br>- 🎨Blog: http://www.alunos.pensandocomrobotica.com.br/yasmims/</p>
 
-###
+### 
