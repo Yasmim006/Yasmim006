@@ -24,7 +24,6 @@
   
   
   🕸️ Informações Profissionais<br>-
-  
   🔭 Atualmente estudando no curso de Informática<br>
   - 🌱 Desenvolvendo projetos práticos que integram tecnologias<br><br>
            
