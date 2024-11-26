@@ -20,7 +20,8 @@
 ###
 
 <p align="center">🎓 𝐸𝑠𝑡𝑢𝑑𝑎𝑛𝑡𝑒 𝑑𝑒 𝐼𝑛𝑓𝑜𝑟𝑚á𝑡𝑖𝑐𝑎 𝟸 𝑛𝑜 𝐼𝑛𝑠𝑡𝑖𝑡𝑢𝑡𝑜 𝐹𝑒𝑑𝑒𝑟𝑎𝑙 𝑑𝑜 𝑀𝑎𝑟𝑎𝑛ℎã𝑜 (𝐼𝐹𝑀𝐴).<br>🎸𝐺𝑜𝑠𝑡𝑜 𝑑𝑒 𝑚ú𝑠𝑖𝑐𝑎𝑠, 𝑓𝑜𝑡𝑜𝑔𝑟𝑎𝑓𝑎𝑟 𝑒 𝑐𝑜𝑧𝑖𝑛ℎ𝑎𝑟 <br>
-  🌟 𝖧𝖺𝖻𝗂𝗅𝗂𝖽𝖺𝖽𝖾𝗌 𝖯𝖾𝗌𝗌𝗈𝖺𝗂𝗌:<br><br> -🤝 𝖳𝗋𝖺𝖻𝖺𝗅𝗁𝗈 𝖾𝗆 𝖾𝗊𝗎𝗂𝗉𝖾 𝖾 𝖼𝗈𝗅𝖺𝖻𝗈𝗋𝖺çã𝗈 𝖾𝖿𝗂𝖼𝖺𝗓<br>-𝖮𝗋𝗀𝖺𝗇𝗂𝗓𝖺çã𝗈 𝖾 𝖺𝗍𝖾𝗇çã𝗈 𝖺𝗈𝗌 𝖽𝖾𝗍𝖺𝗅𝗁𝖾𝗌<br>-𝖢𝗋𝗂𝖺𝗍𝗂𝗏𝗂𝖽𝖺𝖽𝖾 𝖾 𝗂𝗇𝗈𝗏𝖺çã𝗈 <br>-𝖦𝖾𝗌𝗍ã𝗈 𝖽𝖾 𝗍𝖾𝗆𝗉𝗈 𝗉𝖺𝗋𝖺 𝖺𝗅𝖼𝖺𝗇ç𝖺𝗋 𝗆𝖾𝗍𝖺𝗌<br>-🕸️ Informações Profissionais:<br>-🔭 Atualmente estudando no curso de Informática<br>- 🌱 Desenvolvendo projetos práticos que integram tecnologias<br><br>
+  🌟 𝖧𝖺𝖻𝗂𝗅𝗂𝖽𝖺𝖽𝖾𝗌 𝖯𝖾𝗌𝗌𝗈𝖺𝗂𝗌:<br><br> -🤝 𝖳𝗋𝖺𝖻𝖺𝗅𝗁𝗈 𝖾𝗆 𝖾𝗊𝗎𝗂𝗉𝖾 𝖾 𝖼𝗈𝗅𝖺𝖻𝗈𝗋𝖺çã𝗈 𝖾𝖿𝗂𝖼𝖺𝗓<br>-𝖮𝗋𝗀𝖺𝗇𝗂𝗓𝖺çã𝗈 𝖾 𝖺𝗍𝖾𝗇çã𝗈 𝖺𝗈𝗌 𝖽𝖾𝗍𝖺𝗅𝗁𝖾𝗌<br>-𝖢𝗋𝗂𝖺𝗍𝗂𝗏𝗂𝖽𝖺𝖽𝖾 𝖾 𝗂𝗇𝗈𝗏𝖺çã𝗈 <br>-𝖦𝖾𝗌𝗍ã𝗈 𝖽𝖾 𝗍𝖾𝗆𝗉𝗈 𝗉𝖺𝗋𝖺 𝖺𝗅𝖼𝖺𝗇ç𝖺𝗋 𝗆𝖾𝗍𝖺𝗌<br>
+  -🕸️ Informações Profissionais:<br>-🔭 Atualmente estudando no curso de Informática<br>- 🌱 Desenvolvendo projetos práticos que integram tecnologias<br><br>
   - 🚀 Meus interesses incluem:<br>  - Desenvolvimento de aplicações web<br>  - Criação de Projetos<br> <br><br>- ⚡ 𝐿𝑖𝑓𝑒 𝑔𝑜𝑒𝑠 𝑜𝑛...</p>
 
 ###
