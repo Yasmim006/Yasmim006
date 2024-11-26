@@ -1,8 +1,48 @@
-                OLÁ! SOU YASMIM DOS SANTOS ✿
+<div align="center">
+  <img height="150" src=""  />
+</div>
 
-# 💫 About Me:
-🔭 - 𝑺𝒐𝒖 𝒀𝒂𝒔𝒎𝒊𝒎 𝒅𝒐𝒔 𝑺𝒂𝒏𝒕𝒐𝒔, 𝑬𝒔𝒕𝒖𝒅𝒂𝒏𝒕𝒆 𝒅𝒆 𝑰𝒏𝒇𝒐𝒓𝒎á𝒕𝒊𝒄𝒂 𝟐 𝒏𝒐 𝑰𝒏𝒔𝒕𝒊𝒕𝒖𝒕𝒐 𝑭𝒆𝒅𝒆𝒓𝒂𝒍  𝒅𝒐 𝑴𝒂𝒓𝒂𝒏𝒉ã𝒐 (𝑰𝑭𝑴𝑨),𝑪𝒂𝒎𝒑𝒖𝒔 𝑨ç𝒂𝒊𝒍â𝒏𝒅𝒊𝒂.<br><br><br>     ʜᴀʙɪʟɪᴅᴀᴅᴇꜱ ᴘᴇꜱꜱᴏᴀɪꜱ ✩<br>   . ᴛʀᴀʙᴀʟʜᴏ ᴇᴍ ᴇǫᴜɪᴘᴇ<br>   . ᴄᴏᴍᴜɴɪᴄᴀçãᴏ ᴇꜰɪᴄᴀᴢ<br>   . ᴏʀɢᴀɴɪᴢᴀçãᴏ ᴇ ᴘᴏɴᴛᴜᴀʟɪᴅᴀᴅᴇ<br>   . ʀᴇꜱᴏʟᴜçãᴏ ᴅᴇ ᴀᴛɪᴠɪᴅᴀᴅᴇꜱ<br><br><br>       ɪɴꜰᴏʀᴍᴀçõᴇꜱ ᴘʀᴏꜰɪꜱꜱɪᴏɴᴀɪꜱ ♡<br>  - ꜰᴏʀᴍᴀçãᴏ: ᴇꜱᴛᴜᴅᴀɴᴛᴇ ᴅᴇ ɪɴꜰᴏʀᴍáᴛɪᴄᴀ ᴄᴏᴍ ꜰᴏᴄᴏ ᴇᴍ ᴅᴇꜱᴇɴᴠᴏʟᴠɪᴍᴇɴᴛᴏ.<br>  - ɪɴᴛᴇʀᴇꜱꜱᴇ ᴇᴍ ᴘʀᴏᴊᴇᴛᴏꜱ ᴅᴇ ᴅᴇꜱᴇɴᴠᴏʟᴠɪᴍᴇɴᴛᴏ ᴡᴇʙ.<br>  - ʙᴜꜱᴄᴀɴᴅᴏ ᴏᴘᴏʀᴛᴜɴɪᴅᴀᴅᴇꜱ ᴘᴀʀᴀ ᴀᴘʟɪᴄᴀʀ ᴇ ᴇxᴘᴀɴᴅɪʀ ᴍᴇᴜꜱ ᴄᴏɴʜᴇᴄɪᴍᴇɴᴛᴏꜱ.<br><br><br>
+###
 
+<div align="center">
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Yasmim006.Yasmim006&"  />
+</div>
+
+###
+
+<h1 align="center">OLÁ! SOU YASMIM DOS SANTOS ✿</h1>
+
+###
+
+<h3 align="left">𝑺𝒐𝒃𝒓𝒆 𝒎𝒊𝒎 🪐</h3>
+
+###
+
+<p align="center">🎓 𝐸𝑠𝑡𝑢𝑑𝑎𝑛𝑡𝑒 𝑑𝑒 𝐼𝑛𝑓𝑜𝑟𝑚á𝑡𝑖𝑐𝑎 𝟸 𝑛𝑜 𝐼𝑛𝑠𝑡𝑖𝑡𝑢𝑡𝑜 𝐹𝑒𝑑𝑒𝑟𝑎𝑙 𝑑𝑜 𝑀𝑎𝑟𝑎𝑛ℎã𝑜 (𝐼𝐹𝑀𝐴).<br><br>🌟 𝖧𝖺𝖻𝗂𝗅𝗂𝖽𝖺𝖽𝖾𝗌 𝖯𝖾𝗌𝗌𝗈𝖺𝗂𝗌<br><br>- 🤝 𝖳𝗋𝖺𝖻𝖺𝗅𝗁𝗈 𝖾𝗆 𝖾𝗊𝗎𝗂𝗉𝖾 𝖾 𝖼𝗈𝗅𝖺𝖻𝗈𝗋𝖺çã𝗈 𝖾𝖿𝗂𝖼𝖺𝗓<br>- 📌 𝖮𝗋𝗀𝖺𝗇𝗂𝗓𝖺çã𝗈 𝖾 𝖺𝗍𝖾𝗇çã𝗈 𝖺𝗈𝗌 𝖽𝖾𝗍𝖺𝗅𝗁𝖾𝗌<br>- 🎨 𝖢𝗋𝗂𝖺𝗍𝗂𝗏𝗂𝖽𝖺𝖽𝖾 𝖾 𝗂𝗇𝗈𝗏𝖺çã𝗈 𝖾𝗆 𝗌𝗈𝗅𝗎çõ𝖾𝗌<br>- 🕒 𝖦𝖾𝗌𝗍ã𝗈 𝖽𝖾 𝗍𝖾𝗆𝗉𝗈 𝗉𝖺𝗋𝖺 𝖺𝗅𝖼𝖺𝗇ç𝖺𝗋 𝗆𝖾𝗍𝖺𝗌<br><br>💼 Informações Profissionais<br><br>- 🔭 Atualmente estudando no curso de Informática<br>- 🌱 Desenvolvendo projetos práticos que integram tecnologias<br><br>- 🚀 Meus interesses incluem:<br>  - Desenvolvimento de aplicações web<br>  - Criação de Projetos<br> <br><br>- ⚡ In my free time I ...</p>
+
+###
+
+<h3 align="left"></h3>
+
+###
+
+<div align="left">
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Yasmim006&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 ###
 
