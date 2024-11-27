@@ -1,7 +1,8 @@
 <div align="center">
-  <img height="250" src="https://media1.tenor.com/m/ai7M3ICTAAwAAAAd/lana-lana-del-rey.gif"  />
+  <img height="200" src="https://media1.tenor.com/m/a8Z2lXOKd68AAAAd/lana-del-rey-kiss.gif"  />
 </div>
 
+###
 ###
 
 ###
@@ -27,10 +28,10 @@
    - 𝑆𝑜𝑢 𝑐𝑟𝑖𝑎𝑡𝑖𝑣𝑎, 𝑒𝑥𝑡𝑟𝑜𝑣𝑒𝑟𝑡𝑖𝑑𝑎 𝑒 𝑓𝑎𝑙𝑜 𝑑𝑒𝑚𝑎𝑖𝑠.
 
 <div align="center">
-<div align="center">
-  <img height="200" src="https://i.pinimg.com/736x/5b/e7/4b/5be74b1993338ccd4c115132b0fc53f4.jpg"  />
+  <img height="200" src="https://media1.tenor.com/m/ai7M3ICTAAwAAAAd/lana-lana-del-rey.gif"  />
 </div>
 
+###
 # 🌟 𝖧𝖺𝖻𝗂𝗅𝗂𝖽𝖺𝖽𝖾𝗌 𝖯𝖾𝗌𝗌𝗈𝖺𝗂𝗌:
 -🤝 𝖳𝗋𝖺𝖻𝖺𝗅𝗁𝗈 𝖾𝗆 𝖾𝗊𝗎𝗂𝗉𝖾 𝖾 𝖼𝗈𝗅𝖺𝖻𝗈𝗋𝖺çã𝗈 𝖾𝖿𝗂𝖼𝖺𝗓 <br> - 🎨 𝖢𝗋𝗂𝖺𝗍𝗂𝗏𝗂𝖽𝖺𝖽𝖾<br>- 🕒 𝖦𝖾𝗌𝗍ã𝗈 𝖽𝖾 𝗍𝖾𝗆𝗉𝗈 𝗉𝖺𝗋𝖺 𝖺𝗅𝖼𝖺𝗇ç𝖺𝗋 𝗆𝖾𝗍𝖺𝗌<br>  
   
