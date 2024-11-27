@@ -28,7 +28,7 @@
    - 𝑆𝑜𝑢 𝑐𝑟𝑖𝑎𝑡𝑖𝑣𝑎, 𝑒𝑥𝑡𝑟𝑜𝑣𝑒𝑟𝑡𝑖𝑑𝑎 𝑒 𝑓𝑎𝑙𝑜 𝑑𝑒𝑚𝑎𝑖𝑠.
 
 <div align="center">
-  <img height="200" src="https://media1.tenor.com/m/ai7M3ICTAAwAAAAd/lana-lana-del-rey.gif"  />
+  <img height="300" src="https://media1.tenor.com/m/ai7M3ICTAAwAAAAd/lana-lana-del-rey.gif"  />
 </div>
 
 ###
