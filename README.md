@@ -34,7 +34,10 @@
 ###
 # 🌟 𝖧𝖺𝖻𝗂𝗅𝗂𝖽𝖺𝖽𝖾𝗌 𝖯𝖾𝗌𝗌𝗈𝖺𝗂𝗌:
 -🤝 𝖳𝗋𝖺𝖻𝖺𝗅𝗁𝗈 𝖾𝗆 𝖾𝗊𝗎𝗂𝗉𝖾 𝖾 𝖼𝗈𝗅𝖺𝖻𝗈𝗋𝖺çã𝗈 𝖾𝖿𝗂𝖼𝖺𝗓 <br> - 🎨 𝖢𝗋𝗂𝖺𝗍𝗂𝗏𝗂𝖽𝖺𝖽𝖾<br>- 🕒 𝖦𝖾𝗌𝗍ã𝗈 𝖽𝖾 𝗍𝖾𝗆𝗉𝗈 𝗉𝖺𝗋𝖺 𝖺𝗅𝖼𝖺𝗇ç𝖺𝗋 𝗆𝖾𝗍𝖺𝗌<br>  
-  
+  # 🖥 Habilidades como programadora:
+
+  Conhecimento básico de Python, com capacidade para desenvolver scripts simples e realizar automações, além de JavaScript para criação de interatividade em sites. 
+
   # 🕸️ Informações Profissionais:
   <br>- 🔭 Atualmente estudando no curso de Informática<br> - 🌱 Desenvolvendo projetos práticos que integram tecnologias
 
